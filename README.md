@@ -1,6 +1,7 @@
 # libideviceactivation
 
 *A library to manage the activation process of Apple iOS devices.*
+just thinking about spamming albert with wrong bluetooth till find the correct one.
 
 ## Features
 
